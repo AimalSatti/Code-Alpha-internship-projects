@@ -1,6 +1,6 @@
 # Future Sales Prediction.
 
-This project focuses on predicting the future sale price  based on advertising spend and target segmentjnjn.
+This project focuses on predicting the future sale price  based on advertising spend and target segment.
 
 ## 📌 Features & Workflow
 - **Data Preprocessing:** Handled missing values, outliers, and log transformation for skewed numerical features (`TV`, `Radio`).
